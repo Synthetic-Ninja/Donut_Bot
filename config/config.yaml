@@ -1,0 +1,7 @@
+---
+SETTINGS:
+  path_to_webdriver: ''
+  headless_webdriver: false
+  webhook_logger: false
+  webhook_url: ''
+  debug_mode: true
